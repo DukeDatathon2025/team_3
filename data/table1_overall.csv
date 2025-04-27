@@ -1,0 +1,29 @@
+,,Missing,Overall
+n,,,32899
+"age, median [Q1,Q3]",,0,"68.0 [56.0,78.0]"
+"gender, n (%)",F,,13871 (42.2)
+"gender, n (%)",M,,19028 (57.8)
+"ethnicity, n (%)",ASIAN,,380 (1.2)
+"ethnicity, n (%)",ASIAN - CHINESE,,333 (1.0)
+"ethnicity, n (%)",BLACK/AFRICAN AMERICAN,,2881 (8.8)
+"ethnicity, n (%)",HISPANIC/LATINO - PUERTO RICAN,,419 (1.3)
+"ethnicity, n (%)",OTHER,,3215 (9.8)
+"ethnicity, n (%)",UNABLE TO OBTAIN,,445 (1.4)
+"ethnicity, n (%)",UNKNOWN,,3077 (9.4)
+"ethnicity, n (%)",WHITE,,21243 (64.6)
+"ethnicity, n (%)",WHITE - OTHER EUROPEAN,,559 (1.7)
+"ethnicity, n (%)",WHITE - RUSSIAN,,347 (1.1)
+"insurance, n (%)",Medicaid,,4512 (13.7)
+"insurance, n (%)",Medicare,,19502 (59.3)
+"insurance, n (%)",OTHER,,1 (0.0)
+"insurance, n (%)",Other,,803 (2.4)
+"insurance, n (%)",Private,,7634 (23.2)
+"insurance, n (%)",UNKNOWN,,447 (1.4)
+"language, n (%)",Chinese,,413 (1.3)
+"language, n (%)",English,,29519 (89.7)
+"language, n (%)",OTHER,,1276 (3.9)
+"language, n (%)",Russian,,519 (1.6)
+"language, n (%)",Spanish,,963 (2.9)
+"language, n (%)",UNKNOWN,,209 (0.6)
+"sofa, median [Q1,Q3]",,0,"5.0 [3.0,8.0]"
+"charlson_comorbidity_index, median [Q1,Q3]",,0,"5.0 [3.0,7.0]"

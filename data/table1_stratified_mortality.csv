@@ -1,0 +1,30 @@
+,,Grouped by mortality_30day,Grouped by mortality_30day,Grouped by mortality_30day,Grouped by mortality_30day,Grouped by mortality_30day,Grouped by mortality_30day
+,,Missing,Overall,0,1,P-Value,Test
+n,,,32899,25882,7017,,
+"age, median [Q1,Q3]",,0,"68.0 [56.0,78.0]","66.0 [56.0,77.0]","72.0 [61.0,83.0]",<0.001,Kruskal-Wallis
+"gender, n (%)",F,,13871 (42.2),10779 (41.6),3092 (44.1),<0.001,Chi-squared
+"gender, n (%)",M,,19028 (57.8),15103 (58.4),3925 (55.9),,
+"ethnicity, n (%)",ASIAN,,380 (1.2),287 (1.1),93 (1.3),<0.001,Chi-squared
+"ethnicity, n (%)",ASIAN - CHINESE,,333 (1.0),253 (1.0),80 (1.1),,
+"ethnicity, n (%)",BLACK/AFRICAN AMERICAN,,2881 (8.8),2299 (8.9),582 (8.3),,
+"ethnicity, n (%)",HISPANIC/LATINO - PUERTO RICAN,,419 (1.3),344 (1.3),75 (1.1),,
+"ethnicity, n (%)",OTHER,,3215 (9.8),2639 (10.2),576 (8.2),,
+"ethnicity, n (%)",UNABLE TO OBTAIN,,445 (1.4),324 (1.3),121 (1.7),,
+"ethnicity, n (%)",UNKNOWN,,3077 (9.4),2050 (7.9),1027 (14.6),,
+"ethnicity, n (%)",WHITE,,21243 (64.6),17003 (65.7),4240 (60.4),,
+"ethnicity, n (%)",WHITE - OTHER EUROPEAN,,559 (1.7),441 (1.7),118 (1.7),,
+"ethnicity, n (%)",WHITE - RUSSIAN,,347 (1.1),242 (0.9),105 (1.5),,
+"insurance, n (%)",Medicaid,,4512 (13.7),3659 (14.1),853 (12.2),<0.001,Chi-squared (warning: expected count < 5)
+"insurance, n (%)",Medicare,,19502 (59.3),14773 (57.1),4729 (67.4),,
+"insurance, n (%)",OTHER,,1 (0.0),0 (0.0),1 (0.0),,
+"insurance, n (%)",Other,,803 (2.4),680 (2.6),123 (1.8),,
+"insurance, n (%)",Private,,7634 (23.2),6444 (24.9),1190 (17.0),,
+"insurance, n (%)",UNKNOWN,,447 (1.4),326 (1.3),121 (1.7),,
+"language, n (%)",Chinese,,413 (1.3),301 (1.2),112 (1.6),<0.001,Chi-squared
+"language, n (%)",English,,29519 (89.7),23313 (90.1),6206 (88.4),,
+"language, n (%)",OTHER,,1276 (3.9),1003 (3.9),273 (3.9),,
+"language, n (%)",Russian,,519 (1.6),366 (1.4),153 (2.2),,
+"language, n (%)",Spanish,,963 (2.9),774 (3.0),189 (2.7),,
+"language, n (%)",UNKNOWN,,209 (0.6),125 (0.5),84 (1.2),,
+"sofa, median [Q1,Q3]",,0,"5.0 [3.0,8.0]","5.0 [3.0,7.0]","8.0 [5.0,11.0]",<0.001,Kruskal-Wallis
+"charlson_comorbidity_index, median [Q1,Q3]",,0,"5.0 [3.0,7.0]","5.0 [3.0,7.0]","7.0 [5.0,9.0]",<0.001,Kruskal-Wallis
