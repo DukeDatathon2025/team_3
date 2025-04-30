@@ -1,0 +1,7 @@
+,Test AUC
+SOFA_plus_Controls_plus_SDoH_ALL,0.7578463390828689
+SOFA_plus_Controls_plus_ethnicity,0.7557865396126602
+SOFA_plus_Controls_plus_insurance,0.751045450212306
+SOFA_plus_Controls_plus_language,0.7494620768353925
+SOFA_plus_Controls,0.7485832766379674
+SOFA_Only,0.6916207773406023
